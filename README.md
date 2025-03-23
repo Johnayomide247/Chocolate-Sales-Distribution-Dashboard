@@ -33,7 +33,7 @@
 # Total Boxes Shipped: 177K
 # Average Revenue per Box: $34.9
 # ✅ Monthly Sales Trends
-# Highest Sales Month: June ($0.87M)
+# Highest Sales Month: Jan ($0.90M)
 # Lowest Sales Month: April ($0.67M)
 # Sales Fluctuations: Significant drop from February to March, recovery in May & June
 # ✅ Shipping Efficiency by Country
